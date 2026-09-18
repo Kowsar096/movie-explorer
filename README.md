@@ -1,36 +1,27 @@
 # Movie Explorer
 
-## Local setup
+A responsive Movie Explorer application built with React. Users can browse movies/shows, search by title, and view detailed information in a modal.
 
-1. Create a TMDB API read access token at https://www.themoviedb.org/settings/api.
-2. Create a `.env.local` file in the project root:
+## Features
 
-```env
-VITE_TMDB_ACCESS_TOKEN=your_tmdb_read_access_token
-```
+- Responsive home page
+- Movie/show listing
+- Search by title
+- Movie cards with poster, title, year, and rating
+- Movie details modal
+- Responsive design for mobile and desktop
+- API integration using TVMaze and TMDB
 
-3. Restart the development server with `npm run dev`.
+## Technologies
 
-The token is read by Vite at startup and should not be committed to source control.
+- React
+- JavaScript
+- Tailwind CSS
+- TVMaze API
+- TMDB API
 
-## Commands
+## Assignment
 
-```bash
-npm install
-npm run dev
-```
+This project was created as part of the Foundation Program Assignment 2.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
-
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+© 2026 Kowsar Ul Alom

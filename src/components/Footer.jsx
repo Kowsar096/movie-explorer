@@ -12,7 +12,7 @@ function Footer() {
         {/* Social Links */}
         <div className="flex items-center gap-5">
           <a
-            href="https://github.com/"
+            href="https://github.com/Kowsar096"
             target="_blank"
             rel="noopener noreferrer"
             className="text-sm text-gray-400 transition-colors duration-200 hover:text-white"
@@ -21,7 +21,7 @@ function Footer() {
           </a>
 
           <a
-            href="https://linkedin.com/"
+            href="https://bd.linkedin.com/in/mdkowsarulalom"
             target="_blank"
             rel="noopener noreferrer"
             className="text-sm text-gray-400 transition-colors duration-200 hover:text-white"
