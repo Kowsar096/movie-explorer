@@ -24,4 +24,13 @@ A responsive Movie Explorer application built with React. Users can browse movie
 
 This project was created as part of the Foundation Program Assignment 2.
 
+## Live Demo
+
+https://kowsar-movieexplorer.netlify.app/
+
+## GitHub Repository
+
+https://github.com/Kowsar096/movie-explorer
+
+
 © 2026 Kowsar Ul Alom
